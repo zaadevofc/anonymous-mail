@@ -2,11 +2,11 @@
 
 Kirim email anonymous buat ngerjain orang 🤣. Website ini dibuat hanya untuk have fun 🎉, consider this just for learning. Dont forget to follow my github 😶. Happy coding :)
 
+Go to demo : https://hack-mail.vercel.app
+
 ## How to use 🤔
 
 Follow the steps below.
-
-Go to demo : https://hack-mail.vercel.app
 
 - [Input your email](https://github.com/zaadevofc/anonymous-mail/app/main.js)
 - [Input your password](https://github.com/zaadevofc/anonymous-mail/app/main.js)
