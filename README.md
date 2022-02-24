@@ -8,8 +8,8 @@ Go to demo : https://hack-mail.vercel.app
 
 Follow the steps below.
 
-- [Input your email](https://github.com/zaadevofc/anonymous-mail/app/main.js)
-- [Input your password](https://github.com/zaadevofc/anonymous-mail/app/main.js)
+- [Input your email](https://github.com/zaadevofc/anonymous-mail/blob/f02ad3c819ce43331240f519ed91c9ad8bbd3c4c/app/main.js#L16-L17)
+- [Input your password](https://github.com/zaadevofc/anonymous-mail/blob/f02ad3c819ce43331240f519ed91c9ad8bbd3c4c/app/main.js#L16-L17)
 
 - Kamu harus aktifkan "Akses Aplikasi yang kurang aman" di pengaturan akun google kamu ❗
 - Direkomendasikan akun email yang kamu pakai adalah akun tumbal atau akun baru ya 😀
